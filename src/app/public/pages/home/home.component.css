@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.example-card {
+  max-width: 400px;
+  background: #737072;
+  margin:50px;
+}
+
+mat-card-title {
+ color: #34ec6c;
+  margin-bottom: 20px;
+}
+
+mat-card-subtitle{
+  color: #ffffff;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

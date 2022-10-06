@@ -1,0 +1,25 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "title": "Koala",
+      "businessId": 10000,
+      "urlToImage": 2,
+      "challengeType": "Individual"
+    },
+    {
+      "id": 2,
+      "title": "Cat",
+      "businessId": 2,
+      "urlToImage": "https://as2.ftcdn.net/v2/jpg/02/25/25/81/1000_F_225258132_kKs9Ib4S2EbjkL8V2YqqYRNbITeOPQIz.jpg",
+      "challengeType": "Team"
+    },
+    {
+      "id": 3,
+      "title": "Car",
+      "businessId": 1,
+      "urlToImage": "https://static.vecteezy.com/system/resources/previews/001/416/626/large_2x/car-outline-icon-vector.jpg",
+      "challengeType": "Team"
+    }
+  ]
+}

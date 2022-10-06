@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Prueba1';
+  options = [
+    { path: '/home', title: 'Home'},
+    { path: '/business/offers', title: 'Offers'},
+  ]
 }

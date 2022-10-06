@@ -1,0 +1,21 @@
+.table-wrapper {
+  width: 1024px;
+  margin: 50px auto;
+}
+
+table {
+  width: 100%;
+}
+
+tr.editable-row {
+  background-color: rgba(84, 81, 83, 0.12);
+}
+
+img{
+  width: 100px;
+}
+
+button, mat-icon{
+  color:#0fe852;
+}
+
